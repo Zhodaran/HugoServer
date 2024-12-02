@@ -1,0 +1,20 @@
+# Название вашего сайта
+title = "My site"
+
+# Описание вашего сайта
+description = "This example"
+
+# Базовый URL вашего сайта
+baseURL = "http://localhost:1313/"
+
+# Язык сайта
+languageCode = "en-us"  # Исправлено с "languaageCode" на "languageCode"
+
+# Количество постов на странице
+paginate = 10
+
+# Дополнительные параметры
+[params]
+  author = "Stas"
+  keywords = ["Hugo", "Static site", "example"]
+
